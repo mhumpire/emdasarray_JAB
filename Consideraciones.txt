@@ -1,0 +1,7 @@
+Revisar configuracion regional:
+- Separador decimal que sea "punto" "."
+- Separador de miles sea "coma" ","
+- Separador de lista "coma" ","
+
+
+Revisar el canal de la estacion.
